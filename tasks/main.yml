@@ -1,0 +1,6 @@
+---
+# tasks/main.yml
+
+- name: Ensure timezone is set
+  timezone:
+    name: "{{ timezone }}"
