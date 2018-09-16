@@ -4,6 +4,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: timezone
   author: Akman
   description: Setup timezone on Linux
   license: "license (MIT)"
